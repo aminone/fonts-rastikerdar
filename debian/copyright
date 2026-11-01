@@ -1,0 +1,80 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Rastikerdar Fonts
+Upstream-Contact: https://rastikerdar.github.io/
+Source: https://github.com/rastikerdar
+
+Files: debian/*
+Copyright: 2026 Amin Mahmudian
+License: GPL-3+
+
+Files: fonts/gandom/* docs/licenses/gandom-LICENSE
+Copyright: 2015 Saber Rastikerdar
+License: OFL-1.1
+Comment: Includes glyphs and data derived from Noto Serif, which are licensed under Apache-2.0.
+
+Files: fonts/parastoo/* docs/licenses/parastoo-LICENSE
+Copyright: 2015 Saber Rastikerdar
+License: OFL-1.1
+
+Files: fonts/sahel/* docs/licenses/sahel-LICENSE
+Copyright: 2016 Saber Rastikerdar
+License: OFL-1.1
+
+Files: fonts/samim/* docs/licenses/samim-LICENSE
+Copyright: 2015 Saber Rastikerdar
+License: OFL-1.1
+Comment: Includes glyphs and data derived from Open Sans, which are licensed under Apache-2.0.
+
+Files: fonts/shabnam/* docs/licenses/shabnam-LICENSE
+Copyright: 2015 Saber Rastikerdar
+License: OFL-1.1
+Comment: Includes glyphs and data derived from Roboto, which are licensed under Apache-2.0.
+
+Files: fonts/vazirmatn/* docs/licenses/vazirmatn-OFL.txt
+Copyright: 2015 The Vazirmatn Project Authors
+License: OFL-1.1
+
+Files: fonts/nahid/* docs/licenses/nahid-LICENSE
+Copyright: 2003 Bitstream, Inc.
+           Changes by Saber Rastikerdar and DejaVu changes are in the public domain.
+License: LicenseRef-Bitstream-Vera
+Comment: Includes glyphs and data derived from Roboto, which are licensed under Apache-2.0.
+
+Files: fonts/tanha/* docs/licenses/tanha-LICENSE
+Copyright: 2003 Bitstream, Inc.
+           Changes by Saber Rastikerdar and DejaVu changes are in the public domain.
+License: LicenseRef-Bitstream-Vera
+Comment: Includes glyphs and data derived from Roboto, which are licensed under Apache-2.0.
+
+Files: fonts/vazir-code/* docs/licenses/vazir-code-LICENSE
+Copyright: 2003 Bitstream, Inc.
+License: LicenseRef-Bitstream-Vera
+Comment: Changes by Saber Rastikerdar and DejaVu changes are in the public domain.
+
+Files: docs/licenses/Apache-2.0
+Copyright: The Apache Software Foundation
+License: Apache-2.0
+
+License: GPL-3+
+ This package is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ On Debian systems, the complete text of the GNU General Public License
+ version 3 can be found in /usr/share/common-licenses/GPL-3.
+
+License: OFL-1.1
+ This Font Software is licensed under the SIL Open Font License,
+ Version 1.1. The complete license text is included in the relevant
+ family-specific license files under docs/licenses/.
+
+License: Apache-2.0
+ Licensed under the Apache License, Version 2.0. The complete license
+ text is available in the package at docs/licenses/Apache-2.0.
+
+License: LicenseRef-Bitstream-Vera
+ The Bitstream Vera license applies to the relevant upstream font
+ components. The complete license text and required notices are
+ included in the corresponding family-specific license files under
+ docs/licenses/.

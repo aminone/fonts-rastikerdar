@@ -1,0 +1,6 @@
+fonts-rastikerdar (1.0.0-1) unstable; urgency=medium
+
+  * Initial release.
+  * Package nine Rastikerdar Persian font families.
+
+ -- Amin Mahmudian <amin@mahmudian.ir>  Sun, 01 Nov 2026 20:00:00 +0330

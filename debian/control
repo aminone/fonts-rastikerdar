@@ -1,0 +1,23 @@
+Source: fonts-rastikerdar
+Section: fonts
+Priority: optional
+Maintainer: Amin Mahmudian <amin@mahmudian.ir>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.2
+Rules-Requires-Root: no
+Homepage: https://rastikerdar.github.io/
+Vcs-Git: https://github.com/aminone/fonts-rastikerdar.git
+Vcs-Browser: https://github.com/aminone/fonts-rastikerdar
+
+Package: fonts-rastikerdar
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: collection of Persian and Arabic fonts
+ This package provides a collection of Persian and Arabic fonts,
+ including Gandom, Nahid, Parastoo, Sahel, Samim, Shabnam,
+ Tanha, Vazir Code and Vazirmatn.
+ .
+ Dedicated to the memory of Saber Rastikerdar (1986-2023),
+ whose work made a lasting contribution to Persian digital
+ typography.
